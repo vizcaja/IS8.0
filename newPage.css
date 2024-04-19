@@ -1,0 +1,29 @@
+body{
+    background-color:aliceblue;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color:azure;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgba(0, 0, 0, 0.729);
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+    font-weight:bolder;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:45%;
+}
